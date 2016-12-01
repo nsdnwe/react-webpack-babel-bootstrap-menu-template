@@ -1,7 +1,4 @@
 # react-webpack-babel-bootstrap-menu-template
-
-FOR TRAINING ONLY
-
 Simple React Webpack Babel Starter Kit including Bootstrap menu in index.html
 
 ### What's in it?
