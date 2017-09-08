@@ -1,7 +1,7 @@
 {
   "name": "react-webpack-babel-bootstrap-menu",
   "version": "0.0.4",
-  "description": "React Webpack Babel Bootstrap Menu Starter Kit",
+  "description": "React Webpack Babel Bootstrap Menu Starter Kit.",
   "main": "''",
   "scripts": {
     "build": "webpack --config webpack.production.config.js --progress --profile --colors",
