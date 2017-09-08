@@ -1,7 +1,7 @@
 {
-  "name": "react-webpack-babel",
-  "version": "0.0.3",
-  "description": "React Webpack Babel Starter Kit",
+  "name": "react-webpack-babel-bootstrap-menu",
+  "version": "0.0.4",
+  "description": "React Webpack Babel Bootstrap Menu Starter Kit",
   "main": "''",
   "scripts": {
     "build": "webpack --config webpack.production.config.js --progress --profile --colors",
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alicoding/react-webpack-babel"
+    "url": "https://github.com/nsdnwe/react-webpack-babel-bootstrap-menu-template"
   },
-  "author": "Ali Al Dallal",
+  "author": "Niko Wessman",
   "license": "MIT",
-  "homepage": "https://github.com/alicoding/react-webpack-babel#readme",
+  "homepage": "https://github.com/nsdnwe/",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.3",
     "node-sass": "^3.10.1",
