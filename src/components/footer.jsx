@@ -6,7 +6,7 @@ export default class Footer extends React.Component {
             <div>
                 <hr />
                 <footer>
-                    <p>Copyright 2016 - My Application</p>
+                    <p>Copyright 2017 - My Application</p>
                 </footer>
             </div>
         )
